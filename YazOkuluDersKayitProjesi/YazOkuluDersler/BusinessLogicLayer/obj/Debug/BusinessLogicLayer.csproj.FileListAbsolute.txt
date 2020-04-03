@@ -1,0 +1,9 @@
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

@@ -1,0 +1,8 @@
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PROSER-TAKA\Desktop\Yeni klasör\YazOkuluDersKayitProjesi\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
